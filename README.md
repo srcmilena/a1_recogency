@@ -1,3 +1,6 @@
+_a1_individual_mod2_recode = 1ª atividade individual do módulo 2 da Recode_
+
+
 ## Anúncio na plataforma da Recode Pro:
 "Olá, estudante!  
 
